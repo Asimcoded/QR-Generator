@@ -60,6 +60,8 @@ body{
 }
 .QRimage{
     box-shadow: 5px 5px 10px 4px rgba(43, 45, 66, 0.25);
+    width: 100%;
+    max-width: 300px;
 }
 .downloadBtn{
     display: block;
